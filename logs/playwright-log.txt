@@ -1,0 +1,83 @@
+{"level":30,"time":"2021-10-14T16:02:50.129Z","pid":5436,"hostname":"KarlaDaiany-Predator","msg":"Listening on 64600"}
+{"level":30,"time":"2021-10-14T16:02:50.658Z","pid":5436,"hostname":"KarlaDaiany-Predator","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2021-10-14T16:02:50.666Z","pid":5436,"hostname":"KarlaDaiany-Predator","msg":"Changed active context"}
+{"level":30,"time":"2021-10-14T16:02:50.813Z","pid":5436,"hostname":"KarlaDaiany-Predator","msg":"Video path: undefined"}
+{"level":30,"time":"2021-10-14T16:02:50.814Z","pid":5436,"hostname":"KarlaDaiany-Predator","msg":"Changed active page"}
+{"level":30,"time":"2021-10-14T16:02:53.862Z","pid":5436,"hostname":"KarlaDaiany-Predator","msg":"Page|Frame|Element resolved elementSelector: css=div.carousel-items"}
+{"level":30,"time":"2021-10-14T16:02:53.886Z","pid":5436,"hostname":"KarlaDaiany-Predator","msg":"Page|Frame|Element resolved elementSelector: xpath=//a[contains(@href, \"#\")] >> text=Olá Papito, seu saldo é R$ 1000"}
+{"level":30,"time":"2021-10-14T16:02:53.897Z","pid":5436,"hostname":"KarlaDaiany-Predator","msg":"Page|Frame|Element resolved elementSelector: text=Fazer PIX"}
+{"level":30,"time":"2021-10-14T16:02:54.950Z","pid":5436,"hostname":"KarlaDaiany-Predator","msg":"Page|Frame|Element resolved elementSelector: css=p.modal-card-title >> text=PIX"}
+{"level":30,"time":"2021-10-14T16:02:54.960Z","pid":5436,"hostname":"KarlaDaiany-Predator","msg":"Page|Frame|Element resolved elementSelector: xpath=//div[@class=\"control is-expanded\"]//select"}
+{"level":30,"time":"2021-10-14T16:02:55.993Z","pid":5436,"hostname":"KarlaDaiany-Predator","msg":"Page|Frame|Element resolved elementSelector: input[id=\"chave-pix\"]"}
+{"level":30,"time":"2021-10-14T16:02:57.019Z","pid":5436,"hostname":"KarlaDaiany-Predator","msg":"Page|Frame|Element resolved elementSelector: input[id=\"valor\"]"}
+{"level":30,"time":"2021-10-14T16:02:58.043Z","pid":5436,"hostname":"KarlaDaiany-Predator","msg":"Page|Frame|Element resolved elementSelector: //button[contains(text(), \"Enviar PIX\")]"}
+{"level":30,"time":"2021-10-14T16:02:59.114Z","pid":5436,"hostname":"KarlaDaiany-Predator","msg":"Page|Frame|Element resolved elementSelector: xpath=//a[contains(@href, \"#\")] >> text=Olá Papito, seu saldo é R$ 900"}
+{"level":30,"time":"2021-10-14T16:02:59.126Z","pid":5436,"hostname":"KarlaDaiany-Predator","msg":"Page|Frame|Element resolved elementSelector: xpath=//td[contains(text(), \"Nubank - PIX para 123\")]/.."}
+{"level":30,"time":"2021-10-14T16:02:59.215Z","pid":5436,"hostname":"KarlaDaiany-Predator","msg":"Changed active context"}
+{"level":30,"time":"2021-10-14T16:02:59.216Z","pid":5436,"hostname":"KarlaDaiany-Predator","msg":"Changing current active page"}
+{"level":30,"time":"2021-10-14T16:02:59.216Z","pid":5436,"hostname":"KarlaDaiany-Predator","msg":"Changed active page"}
+{"level":30,"time":"2021-10-14T16:02:59.227Z","pid":5436,"hostname":"KarlaDaiany-Predator","msg":"Changed active context"}
+{"level":30,"time":"2021-10-14T16:02:59.227Z","pid":5436,"hostname":"KarlaDaiany-Predator","msg":"Changing current active page"}
+{"level":30,"time":"2021-10-14T16:02:59.227Z","pid":5436,"hostname":"KarlaDaiany-Predator","msg":"Changed active page"}
+{"level":30,"time":"2021-10-14T16:02:59.746Z","pid":5436,"hostname":"KarlaDaiany-Predator","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2021-10-14T16:02:59.752Z","pid":5436,"hostname":"KarlaDaiany-Predator","msg":"Changed active context"}
+{"level":30,"time":"2021-10-14T16:02:59.880Z","pid":5436,"hostname":"KarlaDaiany-Predator","msg":"Video path: undefined"}
+{"level":30,"time":"2021-10-14T16:02:59.880Z","pid":5436,"hostname":"KarlaDaiany-Predator","msg":"Changed active page"}
+{"level":30,"time":"2021-10-14T16:03:03.024Z","pid":5436,"hostname":"KarlaDaiany-Predator","msg":"Page|Frame|Element resolved elementSelector: css=div.carousel-items"}
+{"level":30,"time":"2021-10-14T16:03:03.061Z","pid":5436,"hostname":"KarlaDaiany-Predator","msg":"Page|Frame|Element resolved elementSelector: xpath=//a[contains(@href, \"#\")] >> text=Olá Papito, seu saldo é R$ 1000"}
+{"level":30,"time":"2021-10-14T16:03:03.071Z","pid":5436,"hostname":"KarlaDaiany-Predator","msg":"Page|Frame|Element resolved elementSelector: text=Fazer PIX"}
+{"level":30,"time":"2021-10-14T16:03:04.109Z","pid":5436,"hostname":"KarlaDaiany-Predator","msg":"Page|Frame|Element resolved elementSelector: css=p.modal-card-title >> text=PIX"}
+{"level":30,"time":"2021-10-14T16:03:04.118Z","pid":5436,"hostname":"KarlaDaiany-Predator","msg":"Page|Frame|Element resolved elementSelector: xpath=//div[@class=\"control is-expanded\"]//select"}
+{"level":30,"time":"2021-10-14T16:03:05.140Z","pid":5436,"hostname":"KarlaDaiany-Predator","msg":"Page|Frame|Element resolved elementSelector: input[id=\"chave-pix\"]"}
+{"level":30,"time":"2021-10-14T16:03:06.164Z","pid":5436,"hostname":"KarlaDaiany-Predator","msg":"Page|Frame|Element resolved elementSelector: input[id=\"valor\"]"}
+{"level":30,"time":"2021-10-14T16:03:07.189Z","pid":5436,"hostname":"KarlaDaiany-Predator","msg":"Page|Frame|Element resolved elementSelector: //button[contains(text(), \"Enviar PIX\")]"}
+{"level":30,"time":"2021-10-14T16:03:08.220Z","pid":5436,"hostname":"KarlaDaiany-Predator","msg":"Page|Frame|Element resolved elementSelector: xpath=//div[contains(@class, \"media-content\")] >> text=Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2021-10-14T16:03:08.314Z","pid":5436,"hostname":"KarlaDaiany-Predator","msg":"Changed active context"}
+{"level":30,"time":"2021-10-14T16:03:08.314Z","pid":5436,"hostname":"KarlaDaiany-Predator","msg":"Changing current active page"}
+{"level":30,"time":"2021-10-14T16:03:08.314Z","pid":5436,"hostname":"KarlaDaiany-Predator","msg":"Changed active page"}
+{"level":30,"time":"2021-10-14T16:03:08.324Z","pid":5436,"hostname":"KarlaDaiany-Predator","msg":"Changed active context"}
+{"level":30,"time":"2021-10-14T16:03:08.324Z","pid":5436,"hostname":"KarlaDaiany-Predator","msg":"Changing current active page"}
+{"level":30,"time":"2021-10-14T16:03:08.324Z","pid":5436,"hostname":"KarlaDaiany-Predator","msg":"Changed active page"}
+{"level":30,"time":"2021-10-14T16:03:08.835Z","pid":5436,"hostname":"KarlaDaiany-Predator","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2021-10-14T16:03:08.841Z","pid":5436,"hostname":"KarlaDaiany-Predator","msg":"Changed active context"}
+{"level":30,"time":"2021-10-14T16:03:08.980Z","pid":5436,"hostname":"KarlaDaiany-Predator","msg":"Video path: undefined"}
+{"level":30,"time":"2021-10-14T16:03:08.980Z","pid":5436,"hostname":"KarlaDaiany-Predator","msg":"Changed active page"}
+{"level":30,"time":"2021-10-14T16:03:11.886Z","pid":5436,"hostname":"KarlaDaiany-Predator","msg":"Page|Frame|Element resolved elementSelector: css=div.carousel-items"}
+{"level":30,"time":"2021-10-14T16:03:11.907Z","pid":5436,"hostname":"KarlaDaiany-Predator","msg":"Page|Frame|Element resolved elementSelector: xpath=//a[contains(@href, \"#\")] >> text=Olá Papito, seu saldo é R$ 1000"}
+{"level":30,"time":"2021-10-14T16:03:11.915Z","pid":5436,"hostname":"KarlaDaiany-Predator","msg":"Page|Frame|Element resolved elementSelector: text=Fazer PIX"}
+{"level":30,"time":"2021-10-14T16:03:12.964Z","pid":5436,"hostname":"KarlaDaiany-Predator","msg":"Page|Frame|Element resolved elementSelector: css=p.modal-card-title >> text=PIX"}
+{"level":30,"time":"2021-10-14T16:03:12.974Z","pid":5436,"hostname":"KarlaDaiany-Predator","msg":"Page|Frame|Element resolved elementSelector: xpath=//div[@class=\"control is-expanded\"]//select"}
+{"level":30,"time":"2021-10-14T16:03:14.001Z","pid":5436,"hostname":"KarlaDaiany-Predator","msg":"Page|Frame|Element resolved elementSelector: input[id=\"chave-pix\"]"}
+{"level":30,"time":"2021-10-14T16:03:15.027Z","pid":5436,"hostname":"KarlaDaiany-Predator","msg":"Page|Frame|Element resolved elementSelector: input[id=\"valor\"]"}
+{"level":30,"time":"2021-10-14T16:03:16.054Z","pid":5436,"hostname":"KarlaDaiany-Predator","msg":"Page|Frame|Element resolved elementSelector: //button[contains(text(), \"Enviar PIX\")]"}
+{"level":30,"time":"2021-10-14T16:03:17.095Z","pid":5436,"hostname":"KarlaDaiany-Predator","msg":"Page|Frame|Element resolved elementSelector: xpath=//div[contains(@class, \"media-content\")] >> text=Oops. Valor para PIX incorreto..."}
+================= Original suppressed error =================
+page.waitForSelector: Timeout 5000ms exceeded.
+=========================== logs ===========================
+waiting for selector "xpath=//div[contains(@class, "media-content")] >> text=Oops. Valor para PIX incorreto..." to be visible
+============================================================
+    at C:\Python39\lib\site-packages\Browser\wrapper\index.js:26427:45
+    at step (C:\Python39\lib\site-packages\Browser\wrapper\index.js:26310:23)
+    at Object.next (C:\Python39\lib\site-packages\Browser\wrapper\index.js:26291:53)
+    at fulfilled (C:\Python39\lib\site-packages\Browser\wrapper\index.js:26282:58) {
+  name: 'TimeoutError'
+}
+=============================================================
+{"level":30,"time":"2021-10-14T16:03:22.302Z","pid":5436,"hostname":"KarlaDaiany-Predator","msg":"Changed active context"}
+{"level":30,"time":"2021-10-14T16:03:22.302Z","pid":5436,"hostname":"KarlaDaiany-Predator","msg":"Changing current active page"}
+{"level":30,"time":"2021-10-14T16:03:22.302Z","pid":5436,"hostname":"KarlaDaiany-Predator","msg":"Changed active page"}
+{"level":30,"time":"2021-10-14T16:03:22.311Z","pid":5436,"hostname":"KarlaDaiany-Predator","msg":"Changed active context"}
+{"level":30,"time":"2021-10-14T16:03:22.311Z","pid":5436,"hostname":"KarlaDaiany-Predator","msg":"Changing current active page"}
+{"level":30,"time":"2021-10-14T16:03:22.311Z","pid":5436,"hostname":"KarlaDaiany-Predator","msg":"Changed active page"}
+{"level":30,"time":"2021-10-14T16:03:22.860Z","pid":5436,"hostname":"KarlaDaiany-Predator","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2021-10-14T16:03:22.867Z","pid":5436,"hostname":"KarlaDaiany-Predator","msg":"Changed active context"}
+{"level":30,"time":"2021-10-14T16:03:23.014Z","pid":5436,"hostname":"KarlaDaiany-Predator","msg":"Video path: undefined"}
+{"level":30,"time":"2021-10-14T16:03:23.014Z","pid":5436,"hostname":"KarlaDaiany-Predator","msg":"Changed active page"}
+{"level":30,"time":"2021-10-14T16:03:26.085Z","pid":5436,"hostname":"KarlaDaiany-Predator","msg":"Page|Frame|Element resolved elementSelector: css=div.carousel-items"}
+{"level":30,"time":"2021-10-14T16:03:26.115Z","pid":5436,"hostname":"KarlaDaiany-Predator","msg":"Page|Frame|Element resolved elementSelector: xpath=//a[contains(@href, \"#\")] >> text=Olá Papito, seu saldo é R$ 1000"}
+{"level":30,"time":"2021-10-14T16:03:26.203Z","pid":5436,"hostname":"KarlaDaiany-Predator","msg":"Changed active context"}
+{"level":30,"time":"2021-10-14T16:03:26.203Z","pid":5436,"hostname":"KarlaDaiany-Predator","msg":"Changing current active page"}
+{"level":30,"time":"2021-10-14T16:03:26.203Z","pid":5436,"hostname":"KarlaDaiany-Predator","msg":"Changed active page"}
+{"level":30,"time":"2021-10-14T16:03:26.212Z","pid":5436,"hostname":"KarlaDaiany-Predator","msg":"Changed active context"}
+{"level":30,"time":"2021-10-14T16:03:26.212Z","pid":5436,"hostname":"KarlaDaiany-Predator","msg":"Changing current active page"}
+{"level":30,"time":"2021-10-14T16:03:26.212Z","pid":5436,"hostname":"KarlaDaiany-Predator","msg":"Changed active page"}
